@@ -25,4 +25,3 @@ RoxygenNote: 6.1.1
 LinkingTo:
   TMB,
   RcppEigen
-Remotes: PIFSCstockassessments/StepwiseLH
